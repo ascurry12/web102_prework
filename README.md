@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-<img src='./web102.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+
+<img src='./web102.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
